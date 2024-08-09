@@ -3,8 +3,9 @@ import ReactDOM from "react-dom";
 
 function NavBar() {
   return (
-    <nav>
-      <ul>
+    <nav className="navbar">
+      <h1>The Everything Calculator</h1>
+      {/* <ul>
         <li>
           <a href="#">Home</a>
         </li>
@@ -14,7 +15,7 @@ function NavBar() {
         <li>
           <a href="#">Contact</a>
         </li>
-      </ul>
+      </ul> */}
     </nav>
   );
 }
