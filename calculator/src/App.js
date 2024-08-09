@@ -1,5 +1,4 @@
-import logo from "./logo.svg";
-import MainPage from "./MainPage";
+import MainPage from "./home/MainPage";
 import "./App.css";
 
 function App() {
